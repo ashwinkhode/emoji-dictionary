@@ -34,6 +34,7 @@
 .emojiList {
   font-size: 1.75rem;
   margin: 0 2.0625rem;
+  cursor: pointer;
 }
 
 .emojiHead {
@@ -41,7 +42,7 @@
   margin-bottom: 0.5rem;
   font-weight: 700;
   text-transform: uppercase;
-  cursor: pointer;
+  
 }
 
 .footer {
